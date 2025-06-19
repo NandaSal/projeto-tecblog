@@ -1,4 +1,4 @@
-# Projeto TecBlogg
+# Projeto TecBlog
 
 Projeto simples de blog construído com HTML e CSS com o objetivo de exercitar conceitos básicos das duas tecnologias. 
 
