@@ -21,9 +21,25 @@ body {
 }
 
 #main {
-    background: #FFF;
     width: 920px;
     margin: 0 auto;
+}
+
+#posts {
+    width: 660px;
+    float: left;
+}
+
+#menu-lateral {
+    width: 240px;
+    float: right;
+}
+
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background-color: #CCC;
 }
 
 /* Formatação Menu */
