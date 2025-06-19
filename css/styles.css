@@ -42,6 +42,18 @@ body {
     background-color: white;
 }
 
+.conteudo-lateral {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.side-post {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #CCC;
+}
+
 #rodape {
     clear: both;
     text-align: center;
@@ -81,6 +93,12 @@ h1 {
 
 h2 {
     color: #f7b600;
+}
+
+h3 {
+    color: #565656;
+    background-color: #CCC;
+    padding: 5px;
 }
 
 .white {
